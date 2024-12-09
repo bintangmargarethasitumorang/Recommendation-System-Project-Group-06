@@ -21,3 +21,9 @@ This repository contains three main Jupyter Notebook files, each implementing a 
 2. [Bintang Margaretha Situmorang (12S21023)](https://github.com/bintangmargarethasitumorang)
 3. [Rebecca Yulyartha Bulawan Sihombing (12S21027)](https://github.com/rebeccasihombing17)
 
+## `License📜`
+
+Copyright © 2024, Group 06. Released under [Information Systems](https://www.del.ac.id/?page_id=3534), FITE, [Del Institute of Technology](https://www.del.ac.id/)
+
+---
+
